@@ -17,7 +17,7 @@ sudo apt-get install gcc-avr avr-libc avrdude make
 my-avr-project/
 ├── Makefile                # Build instructions
 ├── README.md               # Project description
-├── source/                    # Source code
+├── source/                 # Source code
 │   └── main.c              # Main program
 ├── lib/                    # Optional: external libraries
 │   └── some_library/
