@@ -19,10 +19,6 @@ my-avr-project/
 ├── README.md               # Project description
 ├── source/                 # Source code
 │   └── main.c              # Main program
-├── lib/                    # Optional: external libraries
-│   └── some_library/
-│       ├── lib.c
-│       └── lib.h
 └── build/                  # Compiled objects / ELF files
     └── main.hex            
 ```
